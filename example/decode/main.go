@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/laohanlinux/bitcask"
+	"github.com/beeleelee/bitcask"
 	"github.com/laohanlinux/go-logger/logger"
 )
 
